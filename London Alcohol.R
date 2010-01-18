@@ -2,6 +2,7 @@ library(ggplot2)
 library(maps)
 library(sp)
 
+### Testing changes to github
 
 con <- url("http://www.gadm.org/data/rda/GBR_adm2.RData")
 print(load(con))
